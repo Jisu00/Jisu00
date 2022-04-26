@@ -39,7 +39,7 @@
 <h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
   <a href="https://github.com/Jisu00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy" />
   </a>
 </p>
 

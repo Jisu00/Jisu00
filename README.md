@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=200&section=header&text=JISU&fontSize=90&animation=)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=170&section=header&text=JISU&fontSize=90&animation=twinkling)
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">
@@ -33,7 +33,7 @@
 <h3 align="center">✨ Most Used Languages ✨</h3>
 <p align="center">
   <a href="https://github.com/Jisu00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu00&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=buefy&hide=ruby" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu00&layout=compact&show_icons=true&show_owner=true&hide_title=true&t7heme=buefy&hide=ruby" />
   </a>
 </p>
 <h3 align="center">✨ GitHub Stats ✨</h3>

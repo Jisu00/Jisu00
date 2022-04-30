@@ -33,13 +33,13 @@
 <h3 align="center">✨ Most Used Languages ✨</h3>
 <p align="center">
   <a href="https://github.com/Jisu00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu00&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=github_dark&hide=ruby" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisu00&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=&hide=ruby" />
   </a>
 </p>
 <h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
   <a href="https://github.com/Jisu00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=" />
   </a>
 </p>
 

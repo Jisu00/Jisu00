@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=$waving&color=5592dd&height=170&section=header&text=JISU&fontSize=90&animation=twinkling)
 
-<h3 align="center">Currently Learning</h3>
+<h3 align="center">Currently Learning ✏️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">&nbsp

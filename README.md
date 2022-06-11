@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">&nbsp
 </p>
 <br/>
-<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/Jisu00">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=" />

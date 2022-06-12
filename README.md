@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=$waving&color=5592dd&height=170&section=header&text=JISU&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=$waving&color=677abf&height=170&section=header&text=JISU&fontSize=90&fontColor=2c2f33&animation=twinkling)
 
 <h3 align="center">Currently Learning ✏️</h3>
 <p align="center">
@@ -9,7 +9,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Jisu00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisu00&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=discord_old_blurple" />
   </a>
 </p>
 

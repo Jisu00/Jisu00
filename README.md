@@ -9,20 +9,22 @@
   <br/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat-square&logo=recoil&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=recoil&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white">&nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp
   <br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/JAVAA-007396?style=flat-square&logo=java&logoColor=white">&nbsp
   <br/>
 </p>
 <h3 align="center">Currently Learning ✏️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">&nbsp
 </p>
 <br/>
 <p align="center">
